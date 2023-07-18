@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unrealprojects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/unrealprojects/MyProject/Content/ShreeRam.umap",
+				"D:/unrealprojects/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/unrealprojects/MyProject/Content/jaishreeram.umap",
+				"D:/unrealprojects/MyProject/Content/Megascans/3D_Assets/Massive_Sandstone_Cliff_vmmdcj2/M_S_Massive_Sandstone_Cliff_vmmdcj2_lod3_Var1_MI_Massive_Sandstone_Cliff_vmmdcj2_2K_85A5282B497174CF2306719BF5FEE341.uasset",
+				"D:/unrealprojects/MyProject/Content/Megascans/Surfaces/Ancient_Temple_Jungle_Roots_smmsfbgp/MI_Ancient_Temple_Jungle_Roots_smmsfbgp_2K.uasset",
+				"D:/unrealprojects/MyProject/Content/Megascans/3D_Assets/Tundra_Boulder_viztbccdw/uploads_files_4042792_shri+ram.uasset",
+				"D:/unrealprojects/MyProject/Content/Megascans/3D_Plants/European_Spindle_wk1ncbxja/T_European_Spindle_wk1ncbxja_2K_Mat.uasset",
+				"D:/unrealprojects/MyProject/Content/Megascans/3D_Plants/European_Spindle_wk1ncbxja/T_European_Spindle_wk1ncbxja_Billboard_Mat.uasset"
+			]
+		}
+	]
+}
